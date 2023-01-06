@@ -23,9 +23,9 @@ body::-webkit-scrollbar {
 <div class="banner">
   <div class="logo">
 <?php if(isset($_GET['logo'])) {
-echo "<a href=\"https://github.com/mcguirepr89/BirdNET-Pi.git\" target=\"_blank\"><img style=\"width:60;height:60;\" src=\"images/bird.png\"></a>";
+echo "<a href=\"https://github.com/wilpat1024/BirdNET-Pi.git\" target=\"_blank\"><img style=\"width:40;height:40;\" src=\"images/whiteLoon.jpeg\"></a>";
 } else {
-echo "<a href=\"https://github.com/mcguirepr89/BirdNET-Pi.git\" target=\"_blank\"><img src=\"images/bird.png\"></a>";
+echo "<a href=\"https://github.com/wilpat1024/BirdNET-Pi.git\" target=\"_blank\"><img style=\"width:280;height:160;\" src=\"images/whiteLoon.jpeg\"></a>";
 }?>
   </div>
 
